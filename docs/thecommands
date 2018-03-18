@@ -1,0 +1,27 @@
+p
+file1
+this is a file
+n
+findfile
+count files
+p
+file2
+this is also a file
+n
+findfile
+count files
+p
+file1
+this file is a duplicate
+s
+file2
+find file2
+s
+file3
+find file3
+n
+findfile
+count files
+q
+quit
+quitnowpls
